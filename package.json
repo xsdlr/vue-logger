@@ -1,6 +1,6 @@
 {
   "name": "vuejs-console",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "logger for Vue2",
   "main": "dist/vue-logger.common.js",
   "module": "dist/vue-logger.esm.js",
