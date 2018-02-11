@@ -1,0 +1,4 @@
+dist/*.js
+flow/*
+build/*
+test/unit/coverage/*

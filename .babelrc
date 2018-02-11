@@ -1,0 +1,16 @@
+{
+  "presets": [
+    "env",
+    "stage-2",
+    "flow-vue"
+  ],
+  "plugins": [
+    "transform-runtime"
+  ],
+  "env": {
+    "test": {
+      "plugins": ["istanbul"],
+      "presets": ["power-assert"]
+    }
+  }
+}
